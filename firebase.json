@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"realtime-call","appId":"1:964201218662:android:c80a7b38e172c094e123a7","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"realtime-call","configurations":{"android":"1:964201218662:android:c80a7b38e172c094e123a7","web":"1:964201218662:web:d4a0de3ddd729958e123a7"}}}}}}

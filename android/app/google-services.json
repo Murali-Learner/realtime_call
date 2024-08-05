@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "964201218662",
+    "firebase_url": "https://realtime-call-default-rtdb.firebaseio.com",
+    "project_id": "realtime-call",
+    "storage_bucket": "realtime-call.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964201218662:android:c80a7b38e172c094e123a7",
+        "android_client_info": {
+          "package_name": "com.example.realtime_call"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4X3yQOM3RJHExZgGYXd1BX1zCyd_P3B4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
